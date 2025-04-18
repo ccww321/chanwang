@@ -1,4 +1,4 @@
 ---
-title: This is an index
+This is an index
 ---
 
