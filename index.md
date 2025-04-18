@@ -1,4 +1,4 @@
 ---
-title: Welcome to Chan Wang's Page :)
+title: This is an index
 ---
 
